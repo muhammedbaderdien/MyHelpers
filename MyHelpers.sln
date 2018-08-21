@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelpers", "MyHelpers\MyHelpers.csproj", "{EDF009D0-B20A-49B9-BCF0-B2E0AB0A9816}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHelpers.FileUtilities.SizeChecks", "MyHelpers\MyHelpers.FileUtilities.SizeChecks.csproj", "{EDF009D0-B20A-49B9-BCF0-B2E0AB0A9816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
